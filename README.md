@@ -1,4 +1,4 @@
-# winlator
+# Winlator
 
 Winlator is an Android application based on Exagear that lets you run Windows x86 applications with Wine.
 
